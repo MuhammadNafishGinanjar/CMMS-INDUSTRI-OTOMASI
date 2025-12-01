@@ -10,8 +10,8 @@ from werkzeug.security import generate_password_hash, check_password_hash
 # ---------- CONFIG ----------
 app = Flask(__name__)
 
-app.config["MONGO_URI"] = "mongodb://admin:adminpassword@localhost:27017/cmms_industri_otomasi?authSource=admin"
-app.config['SECRET_KEY'] = 'cmms2025_kece_bingits'
+app.config["MONGO_URI"] = "MONGO_URI_ANDA"
+app.config['SECRET_KEY'] = 'SECRET_KEY_ANDA'
 
 mongo = PyMongo(app)
 CORS(app, resources={r"/api/*": {"origins": "*"}})
