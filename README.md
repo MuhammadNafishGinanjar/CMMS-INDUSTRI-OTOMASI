@@ -15,7 +15,7 @@ Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web
 - Pembuatan Work Order oleh **Supervisor** dan **Teknisi**
 - Sistem **Pull System** — Teknisi mengambil WO secara mandiri (tidak ada assign)
 - Ownership eksklusif: hanya 1 teknisi + Supervisor/Admin yang boleh ubah status
-- Status: `Open → In Progress → Waiting Sparepart → Completed → Closed`
+- Status: `Open → In Progress → Completed → Closed`
 - History lengkap + timestamp WIB akurat
 - Archive setelah selesai
 
