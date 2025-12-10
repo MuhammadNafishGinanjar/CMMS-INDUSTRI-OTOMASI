@@ -74,8 +74,6 @@ Supervisor verifikasi → Close & Archive
 ↓
 lastMaintenanceDate otomatis update
 ```
----
-
 
 ---
 
