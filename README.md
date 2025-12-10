@@ -91,5 +91,6 @@ python app.py
 
 # 2. Frontend (Next.js)
 cd frontend
+cd cmms-frontend
 npm install
 npm run dev
