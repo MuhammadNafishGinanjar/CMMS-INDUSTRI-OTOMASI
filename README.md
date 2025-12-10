@@ -17,12 +17,11 @@ Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web
 - Ownership eksklusif: hanya 1 teknisi + Supervisor/Admin yang boleh ubah status
 - Status: `Open → In Progress → Waiting Sparepart → Completed → Closed`
 - History lengkap + timestamp WIB akurat
-- Archive otomatis setelah selesai
+- Archive setelah selesai
 
 ### 2. Maintenance Scheduling (Preventive Maintenance)
 - Jadwal PM rutin (harian, mingguan, bulanan)
 - Reminder otomatis di dashboard
-- **Tidak otomatis update last maintenance** → hanya update saat WO benar-benar ditutup
 - Mencegah data fiktif → sesuai standar **ISO 55001**
 
 ### 3. Maintenance History & Audit Trail
@@ -33,7 +32,7 @@ Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web
 
 ### 4. Documentation & Reporting
 - Data mesin & komponen lengkap (kode, tipe, lokasi, tanggal pasang)
-- Foto & catatan perbaikan (siap ditambah)
+- catatan perbaikan (siap ditambah)
 - Export-ready untuk laporan bulanan
 - Audit trail lengkap
 
