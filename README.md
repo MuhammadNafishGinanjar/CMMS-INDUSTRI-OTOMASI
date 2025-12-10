@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web untuk **industri manufaktur** dengan pendekatan **Lean Maintenance** dan **Role-Based Access Control (RBAC)** yang aman, realistis, dan siap produksi.
+Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web untuk **industri otomasi** dengan pendekatan **Lean Maintenance** dan **Role-Based Access Control (RBAC)** yang aman, realistis, dan siap produksi.
 
 ---
 
