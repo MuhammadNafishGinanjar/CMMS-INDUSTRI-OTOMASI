@@ -60,7 +60,8 @@ Sistem **Computerized Maintenance Management System (CMMS)** modern berbasis web
 
 ---
 
-## Alur Kerja Harian (Realistis & Terbukti di Pabrik)
+## Alur Kerja Harian
+```
 Operator lapor kerusakan (lisan/WA)
 ↓
 Supervisor validasi → buat Work Order
@@ -72,7 +73,7 @@ Teknisi kerja → update status → Completed
 Supervisor verifikasi → Close & Archive
 ↓
 lastMaintenanceDate otomatis update
-
+```
 ---
 
 
